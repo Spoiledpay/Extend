@@ -12,13 +12,14 @@
 
 Para usar a biblioteca `Extend.h`, basta incluir o arquivo `extend.h` no seu projeto:
 
-```c
+
 #include "extend.h"
 
 Uso
 Mudança de Cor
 Você pode mudar a cor do texto e do fundo usando a função color e resetar a cor original com a função resetcolor.
 
+```c
 #include "extend.h"
 
 int main() {
