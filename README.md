@@ -40,9 +40,9 @@ int main() {
 ```
 Impressão de Mensagens
 A biblioteca fornece funções para imprimir mensagens formatadas no console:
+print: Imprime uma mensagem formatada.
 
 ```c
-print: Imprime uma mensagem formatada.
 println: Imprime uma mensagem formatada seguida de uma nova linha.
 print("valor de var1 = %d\n", var1);
 println("valor de var2 = %d", var2);
