@@ -37,6 +37,7 @@ int main() {
     return 0;
 }
 
+```
 Impressão de Mensagens
 A biblioteca fornece funções para imprimir mensagens formatadas no console:
 
