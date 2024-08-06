@@ -51,7 +51,7 @@ println("valor de var2 = %d", var2);
 
 Definições de Cores
 A biblioteca define várias cores para texto e fundo:
-
+```
 Cores de Texto
 BLACK
 BLUE
@@ -86,6 +86,7 @@ BG_LIGHTRED
 BG_LIGHTMAGENTA
 BG_YELLOW
 BG_WHITE
+```
 Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests.
 
