@@ -87,6 +87,19 @@ BG_LIGHTMAGENTA
 BG_YELLOW
 BG_WHITE
 ```
+#include "Extend.h"
+
+```
+int main() {
+    WORD attributes;
+    color(&attributes, RED | BG_WHITE);
+    println("Texto em vermelho com fundo branco");
+    resetcolor(attributes);
+    println("Texto com cor padrão");
+    return 0;
+}
+```
+
 Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests.
 
