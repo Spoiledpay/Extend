@@ -1,4 +1,4 @@
-# Extend.h e graphic.h
+# Extend.h e Graphic.h
 
 `Extend.h` é uma biblioteca C para facilitar a manipulação de cores no console do Windows e a impressão de mensagens formatadas. Esta biblioteca fornece funções para mudar a cor do texto e do fundo, além de funções auxiliares para impressão.
 
