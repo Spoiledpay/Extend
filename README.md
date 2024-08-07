@@ -4,6 +4,10 @@
 
 `graphic.h`A nova biblioteca gráfica, composta pelos arquivos graphic.h e graphic.c, fornece uma interface simples para criar e manipular uma janela gráfica no ambiente Windows. Ela oferece funções para desenhar formas básicas como linhas e círculos com cores personalizadas, além de gerenciar a janela gráfica.
 
+# Biblioteca texto em C
+
+Esta biblioteca fornece funções para mudar a cor do texto e do fundo, além de funções auxiliares para impressão.
+
 ## Funcionalidades
 
 - Mudar a cor do texto e do fundo no console.
